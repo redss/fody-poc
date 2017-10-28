@@ -57,9 +57,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NullConfiguration.cs" />
     <Compile Include="NullProtectedMethod.cs" />
     <Compile Include="NullProtectedDto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RequiredProperitesDto.cs" />
     <Compile Include="ReturningNulls.cs" />
   </ItemGroup>
   <ItemGroup>
